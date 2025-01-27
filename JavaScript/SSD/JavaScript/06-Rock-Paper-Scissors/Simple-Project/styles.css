@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 20px;
+  padding: 10px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 18px;
+  margin-right: 10px;
+}
+
+.result {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.score {
+  margin: 30px 0;
+}
